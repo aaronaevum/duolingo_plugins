@@ -4,13 +4,13 @@
 
 ## 一键导入
 
-[点击导入 Loon](https://www.nsloon.com/openloon/import?plugin=https%3A%2F%2Fraw.githubusercontent.com%2Faaronaevum%2Fduolingo_plugins%2Fmain%2Fduolingo_v11.plugin)
+[点击导入 Loon](https://www.nsloon.com/openloon/import?plugin=https%3A%2F%2Fraw.githubusercontent.com%2Faaronaevum%2Floon_plugins%2Fmain%2Fduolingo_v11.plugin)
 
 ## 手动导入
 
 Loon → 配置 → 插件 → 右上角 + → 粘贴下面的地址：
 
-https://raw.githubusercontent.com/aaronaevum/duolingo_plugins/main/duolingo_v11.plugin
+https://raw.githubusercontent.com/aaronaevum/loon_plugins/main/duolingo_v11.plugin
 
 ## 功能
 
