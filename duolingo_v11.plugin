@@ -1,0 +1,10 @@
+#!name=多邻国 v11
+#!desc=真实连胜 + 真实日历 + 成就全满 + Super + Max
+#!author=Aaron
+
+[Script]
+http-response ^https?:\/\/api2\.duolingo\.cn script-path=https://raw.githubusercontent.com/aaronaevum/loon-plugins/main/duolingo_gems_v11.js, requires-body=true, timeout=10, tag=多邻国 api2 响应拦截
+http-request ^https?:\/\/api2\.duolingo\.cn.*\/batch script-path=https://raw.githubusercontent.com/aaronaevum/loon-plugins/main/duolingo_gems_v11.js, requires-body=true, timeout=10, tag=多邻国 api2 请求拦截
+
+[MITM]
+hostname = api2.duolingo.cn
