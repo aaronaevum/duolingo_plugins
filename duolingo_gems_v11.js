@@ -2,7 +2,7 @@
 // @name        多邻国 v11（Super + Max 视频通话加固）
 // @desc        真实连胜 + 真实日历 + 成就全满 + Super + Max视频通话入口修正
 // @version     11.0
-// @author      Minis
+// @author      Aaron
 // ==/Plugin==
 
 const G = 999999, TB = 999, FZ = 999;
