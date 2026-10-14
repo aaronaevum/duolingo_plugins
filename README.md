@@ -1,6 +1,6 @@
 # Loon 插件+图标
 
-##图标订阅地址
+## 图标订阅地址
 
 [点击导入 Loon 国旗图标库](https://www.nsloon.com/openloon/import?iconset=https%3A%2F%2Fraw.githubusercontent.com%2Faaronaevum%2Floon%2Fmain%2Fflags%2Fflags.json)
 
