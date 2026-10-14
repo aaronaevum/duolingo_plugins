@@ -10,13 +10,13 @@
 
 ### 一键导入
 
-[点击导入 Loon](https://www.nsloon.com/openloon/import?plugin=https%3A%2F%2Fraw.githubusercontent.com%2Faaronaevum%2Floon%2Frefs%2Fheads%2Fmain%2Fplugins%2Fduolingo%2Fduolingo_v11.plugin)
+[点击导入 Loon](https://www.nsloon.com/openloon/import?plugin=https%3A%2F%2Fraw.githubusercontent.com%2Faaronaevum%2Floon%2Frefs%2Fheads%2Fmain%2Fplugins%2Fduolingo%2Fduolingo.plugin)
 
 ### 手动导入
 
 Loon → 配置 → 插件 → 右上角 + → 粘贴下面的地址：
 
-https://raw.githubusercontent.com/aaronaevum/loon/refs/heads/main/plugins/duolingo/duolingo_v11.plugin
+https://raw.githubusercontent.com/aaronaevum/loon/refs/heads/main/plugins/duolingo/duolingo.plugin
 
 ### 功能
 
@@ -67,5 +67,5 @@ iPad 需要单独安装并信任证书，iPhone 上装过不会同步。
 
 ### 文件说明
 
-- loon/duolingo/duolingo_v11.plugin：Loon 插件文件
-- loon/duolingo/duolingo_gems_v11.js：脚本文件
+- loon/duolingo/duolingo.plugin：Loon 插件文件
+- loon/duolingo/duolingo_v11.js：脚本文件
