@@ -35,10 +35,6 @@
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/North_America/Anguilla.png"
     },
     {
-      "name": "Antarctica",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/Antarctica/Antarctica.png"
-    },
-    {
       "name": "Antigua and Barbuda",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/North_America/Antigua_and_Barbuda.png"
     },
@@ -1029,6 +1025,10 @@
     {
       "name": "America Map",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/Global/America_Map.png"
+    },
+    {
+      "name": "Antarctica",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/Global/Antarctica/Antarctica.png"
     },
     {
       "name": "Asia Map",
