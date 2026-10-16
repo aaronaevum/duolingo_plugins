@@ -1,1258 +1,1258 @@
 {
-  "name": "Flags",
-  "description": "World flags - 1024px",
+  "name": "国旗 1024px",
+  "description": "Aaron",
   "icons": [
     {
-      "name": "ad",
+      "name": "安道尔 ad",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Europe/ad.png"
     },
     {
-      "name": "ae",
+      "name": "阿联酋 ae",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Asia/ae.png"
     },
     {
-      "name": "af",
+      "name": "阿富汗 af",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Asia/af.png"
     },
     {
-      "name": "af",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/world%20map/af.png"
-    },
-    {
-      "name": "ag",
+      "name": "安提瓜和巴布达 ag",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/North%20America/ag.png"
     },
     {
-      "name": "ai",
+      "name": "安圭拉 ai",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/North%20America/ai.png"
     },
     {
-      "name": "us ak",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/North%20America/us_ak.png"
-    },
-    {
-      "name": "al",
+      "name": "阿尔巴尼亚 al",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Europe/al.png"
     },
     {
-      "name": "us al",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/North%20America/us_al.png"
-    },
-    {
-      "name": "am",
+      "name": "亚美尼亚 am",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Asia/am.png"
     },
     {
-      "name": "an",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/world%20map/an.png"
-    },
-    {
-      "name": "ao",
+      "name": "安哥拉 ao",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Africa/ao.png"
     },
     {
-      "name": "ar",
+      "name": "阿根廷 ar",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/South%20America/ar.png"
     },
     {
-      "name": "us ar",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/North%20America/us_ar.png"
-    },
-    {
-      "name": "as",
+      "name": "美属萨摩亚 as",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Oceania/as.png"
     },
     {
-      "name": "as",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/world%20map/as.png"
-    },
-    {
-      "name": "at",
+      "name": "奥地利 at",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Europe/at.png"
     },
     {
-      "name": "au",
+      "name": "澳大利亚 au",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Oceania/au.png"
     },
     {
-      "name": "aw",
+      "name": "阿鲁巴 aw",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/North%20America/aw.png"
     },
     {
-      "name": "ax",
+      "name": "奥兰群岛 ax",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Europe/ax.png"
     },
     {
-      "name": "az",
+      "name": "阿塞拜疆 az",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Asia/az.png"
     },
     {
-      "name": "us az",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/North%20America/us_az.png"
-    },
-    {
-      "name": "ba",
+      "name": "波黑 ba",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Europe/ba.png"
     },
     {
-      "name": "bb",
+      "name": "巴巴多斯 bb",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/North%20America/bb.png"
     },
     {
-      "name": "bd",
+      "name": "孟加拉国 bd",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Asia/bd.png"
     },
     {
-      "name": "be",
+      "name": "比利时 be",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Europe/be.png"
     },
     {
-      "name": "bf",
+      "name": "布基纳法索 bf",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Africa/bf.png"
     },
     {
-      "name": "bg",
+      "name": "保加利亚 bg",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Europe/bg.png"
     },
     {
-      "name": "bh",
+      "name": "巴林 bh",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Asia/bh.png"
     },
     {
-      "name": "bi",
+      "name": "布隆迪 bi",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Africa/bi.png"
     },
     {
-      "name": "bj",
+      "name": "贝宁 bj",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Africa/bj.png"
     },
     {
-      "name": "bl",
+      "name": "圣巴泰勒米 bl",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/North%20America/bl.png"
     },
     {
-      "name": "bm",
+      "name": "百慕大 bm",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/North%20America/bm.png"
     },
     {
-      "name": "bn",
+      "name": "文莱 bn",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Asia/bn.png"
     },
     {
-      "name": "bo",
+      "name": "玻利维亚 bo",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/South%20America/bo.png"
     },
     {
-      "name": "bq",
+      "name": "荷属加勒比区 bq",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/North%20America/bq.png"
     },
     {
-      "name": "br",
+      "name": "巴西 br",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/South%20America/br.png"
     },
     {
-      "name": "bs",
+      "name": "巴哈马 bs",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/North%20America/bs.png"
     },
     {
-      "name": "bt",
+      "name": "不丹 bt",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Asia/bt.png"
     },
     {
-      "name": "bw",
+      "name": "博茨瓦纳 bw",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Africa/bw.png"
     },
     {
-      "name": "by",
+      "name": "白俄罗斯 by",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Europe/by.png"
     },
     {
-      "name": "bz",
+      "name": "伯利兹 bz",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/North%20America/bz.png"
     },
     {
-      "name": "ca",
+      "name": "加拿大 ca",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/North%20America/ca.png"
     },
     {
-      "name": "us ca",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/North%20America/us_ca.png"
-    },
-    {
-      "name": "cc",
+      "name": "科科斯群岛 cc",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Oceania/cc.png"
     },
     {
-      "name": "cd",
+      "name": "刚果金 cd",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Africa/cd.png"
     },
     {
-      "name": "cf",
+      "name": "中非 cf",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Africa/cf.png"
     },
     {
-      "name": "cg",
+      "name": "刚果布 cg",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Africa/cg.png"
     },
     {
-      "name": "ch",
+      "name": "瑞士 ch",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Europe/ch.png"
     },
     {
-      "name": "ci",
+      "name": "科特迪瓦 ci",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Africa/ci.png"
     },
     {
-      "name": "ck",
+      "name": "库克群岛 ck",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Oceania/ck.png"
     },
     {
-      "name": "cl",
+      "name": "智利 cl",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/South%20America/cl.png"
     },
     {
-      "name": "cm",
+      "name": "喀麦隆 cm",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Africa/cm.png"
     },
     {
-      "name": "cn",
+      "name": "中国 cn",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Asia/cn.png"
     },
     {
-      "name": "cn",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/world%20map/cn.png"
-    },
-    {
-      "name": "co",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/South%20America/co.png"
-    },
-    {
-      "name": "us co",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/North%20America/us_co.png"
-    },
-    {
-      "name": "cr",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/North%20America/cr.png"
-    },
-    {
-      "name": "us ct",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/North%20America/us_ct.png"
-    },
-    {
-      "name": "cu",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/North%20America/cu.png"
-    },
-    {
-      "name": "cv",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Africa/cv.png"
-    },
-    {
-      "name": "cw",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/North%20America/cw.png"
-    },
-    {
-      "name": "cx",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Oceania/cx.png"
-    },
-    {
-      "name": "cy",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Asia/cy.png"
-    },
-    {
-      "name": "cz",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Europe/cz.png"
-    },
-    {
-      "name": "de",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Europe/de.png"
-    },
-    {
-      "name": "us de",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/North%20America/us_de.png"
-    },
-    {
-      "name": "dj",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Africa/dj.png"
-    },
-    {
-      "name": "dk",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Europe/dk.png"
-    },
-    {
-      "name": "dm",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/North%20America/dm.png"
-    },
-    {
-      "name": "do",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/North%20America/do.png"
-    },
-    {
-      "name": "dz",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Africa/dz.png"
-    },
-    {
-      "name": "ec",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/South%20America/ec.png"
-    },
-    {
-      "name": "ee",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Europe/ee.png"
-    },
-    {
-      "name": "eg",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Africa/eg.png"
-    },
-    {
-      "name": "eh",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Africa/eh.png"
-    },
-    {
-      "name": "gb eng",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Europe/gb_eng.png"
-    },
-    {
-      "name": "er",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Africa/er.png"
-    },
-    {
-      "name": "es",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Europe/es.png"
-    },
-    {
-      "name": "et",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Africa/et.png"
-    },
-    {
-      "name": "eu",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/other/eu.png"
-    },
-    {
-      "name": "eu",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/world%20map/eu.png"
-    },
-    {
-      "name": "fi",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Europe/fi.png"
-    },
-    {
-      "name": "fj",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Oceania/fj.png"
-    },
-    {
-      "name": "fk",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/South%20America/fk.png"
-    },
-    {
-      "name": "us fl",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/North%20America/us_fl.png"
-    },
-    {
-      "name": "fm",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Oceania/fm.png"
-    },
-    {
-      "name": "fo",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Europe/fo.png"
-    },
-    {
-      "name": "fr",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Europe/fr.png"
-    },
-    {
-      "name": "ga",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Africa/ga.png"
-    },
-    {
-      "name": "us ga",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/North%20America/us_ga.png"
-    },
-    {
-      "name": "gb",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Europe/gb.png"
-    },
-    {
-      "name": "gd",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/North%20America/gd.png"
-    },
-    {
-      "name": "ge",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Asia/ge.png"
-    },
-    {
-      "name": "gf",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/South%20America/gf.png"
-    },
-    {
-      "name": "gg",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Europe/gg.png"
-    },
-    {
-      "name": "gh",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Africa/gh.png"
-    },
-    {
-      "name": "gi",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Europe/gi.png"
-    },
-    {
-      "name": "gl",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/North%20America/gl.png"
-    },
-    {
-      "name": "gm",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Africa/gm.png"
-    },
-    {
-      "name": "gn",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Africa/gn.png"
-    },
-    {
-      "name": "gp",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/North%20America/gp.png"
-    },
-    {
-      "name": "gq",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Africa/gq.png"
-    },
-    {
-      "name": "gr",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Europe/gr.png"
-    },
-    {
-      "name": "gs",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Antarctica/gs.png"
-    },
-    {
-      "name": "gt",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/North%20America/gt.png"
-    },
-    {
-      "name": "gu",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Oceania/gu.png"
-    },
-    {
-      "name": "gw",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Africa/gw.png"
-    },
-    {
-      "name": "gy",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/South%20America/gy.png"
-    },
-    {
-      "name": "us hi",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/North%20America/us_hi.png"
-    },
-    {
-      "name": "cn hk",
+      "name": "中国香港 cn hk",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Asia/cn_hk.png"
     },
     {
-      "name": "hn",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/North%20America/hn.png"
-    },
-    {
-      "name": "hr",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Europe/hr.png"
-    },
-    {
-      "name": "ht",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/North%20America/ht.png"
-    },
-    {
-      "name": "hu",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Europe/hu.png"
-    },
-    {
-      "name": "us ia",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/North%20America/us_ia.png"
-    },
-    {
-      "name": "id",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Asia/id.png"
-    },
-    {
-      "name": "us id",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/North%20America/us_id.png"
-    },
-    {
-      "name": "ie",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Europe/ie.png"
-    },
-    {
-      "name": "il",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Asia/il.png"
-    },
-    {
-      "name": "us il",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/North%20America/us_il.png"
-    },
-    {
-      "name": "im",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Europe/im.png"
-    },
-    {
-      "name": "in",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Asia/in.png"
-    },
-    {
-      "name": "us in",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/North%20America/us_in.png"
-    },
-    {
-      "name": "io",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Asia/io.png"
-    },
-    {
-      "name": "iq",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Asia/iq.png"
-    },
-    {
-      "name": "ir",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Asia/ir.png"
-    },
-    {
-      "name": "is",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Europe/is.png"
-    },
-    {
-      "name": "it",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Europe/it.png"
-    },
-    {
-      "name": "je",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Europe/je.png"
-    },
-    {
-      "name": "jm",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/North%20America/jm.png"
-    },
-    {
-      "name": "jo",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Asia/jo.png"
-    },
-    {
-      "name": "jp",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Asia/jp.png"
-    },
-    {
-      "name": "ke",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Africa/ke.png"
-    },
-    {
-      "name": "kg",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Asia/kg.png"
-    },
-    {
-      "name": "kh",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Asia/kh.png"
-    },
-    {
-      "name": "ki",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Oceania/ki.png"
-    },
-    {
-      "name": "km",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Africa/km.png"
-    },
-    {
-      "name": "kn",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/North%20America/kn.png"
-    },
-    {
-      "name": "kp",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Asia/kp.png"
-    },
-    {
-      "name": "kr",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Asia/kr.png"
-    },
-    {
-      "name": "us ks",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/North%20America/us_ks.png"
-    },
-    {
-      "name": "kw",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Asia/kw.png"
-    },
-    {
-      "name": "ky",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/North%20America/ky.png"
-    },
-    {
-      "name": "us ky",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/North%20America/us_ky.png"
-    },
-    {
-      "name": "kz",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Asia/kz.png"
-    },
-    {
-      "name": "la",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Asia/la.png"
-    },
-    {
-      "name": "us la",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/North%20America/us_la.png"
-    },
-    {
-      "name": "lb",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Asia/lb.png"
-    },
-    {
-      "name": "lc",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/North%20America/lc.png"
-    },
-    {
-      "name": "li",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Europe/li.png"
-    },
-    {
-      "name": "lk",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Asia/lk.png"
-    },
-    {
-      "name": "lr",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Africa/lr.png"
-    },
-    {
-      "name": "ls",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Africa/ls.png"
-    },
-    {
-      "name": "lt",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Europe/lt.png"
-    },
-    {
-      "name": "lu",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Europe/lu.png"
-    },
-    {
-      "name": "lv",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Europe/lv.png"
-    },
-    {
-      "name": "ly",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Africa/ly.png"
-    },
-    {
-      "name": "ma",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Africa/ma.png"
-    },
-    {
-      "name": "us ma",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/North%20America/us_ma.png"
-    },
-    {
-      "name": "mc",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Europe/mc.png"
-    },
-    {
-      "name": "md",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Europe/md.png"
-    },
-    {
-      "name": "us md",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/North%20America/us_md.png"
-    },
-    {
-      "name": "me",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Europe/me.png"
-    },
-    {
-      "name": "us me",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/North%20America/us_me.png"
-    },
-    {
-      "name": "mg",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Africa/mg.png"
-    },
-    {
-      "name": "mh",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Oceania/mh.png"
-    },
-    {
-      "name": "us mi",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/North%20America/us_mi.png"
-    },
-    {
-      "name": "mk",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Europe/mk.png"
-    },
-    {
-      "name": "ml",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Africa/ml.png"
-    },
-    {
-      "name": "mm",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Asia/mm.png"
-    },
-    {
-      "name": "mn",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Asia/mn.png"
-    },
-    {
-      "name": "us mn",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/North%20America/us_mn.png"
-    },
-    {
-      "name": "cn mo",
+      "name": "中国澳门 cn mo",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Asia/cn_mo.png"
     },
     {
-      "name": "us mo",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/North%20America/us_mo.png"
-    },
-    {
-      "name": "mp",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Oceania/mp.png"
-    },
-    {
-      "name": "mq",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/North%20America/mq.png"
-    },
-    {
-      "name": "mr",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Africa/mr.png"
-    },
-    {
-      "name": "ms",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/North%20America/ms.png"
-    },
-    {
-      "name": "us ms",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/North%20America/us_ms.png"
-    },
-    {
-      "name": "mt",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Europe/mt.png"
-    },
-    {
-      "name": "us mt",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/North%20America/us_mt.png"
-    },
-    {
-      "name": "mu",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Africa/mu.png"
-    },
-    {
-      "name": "mv",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Asia/mv.png"
-    },
-    {
-      "name": "mw",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Africa/mw.png"
-    },
-    {
-      "name": "mx",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/North%20America/mx.png"
-    },
-    {
-      "name": "my",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Asia/my.png"
-    },
-    {
-      "name": "mz",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Africa/mz.png"
-    },
-    {
-      "name": "na",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Africa/na.png"
-    },
-    {
-      "name": "na",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/world%20map/na.png"
-    },
-    {
-      "name": "nc",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Oceania/nc.png"
-    },
-    {
-      "name": "us nc",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/North%20America/us_nc.png"
-    },
-    {
-      "name": "us nd",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/North%20America/us_nd.png"
-    },
-    {
-      "name": "ne",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Africa/ne.png"
-    },
-    {
-      "name": "us ne",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/North%20America/us_ne.png"
-    },
-    {
-      "name": "nf",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Oceania/nf.png"
-    },
-    {
-      "name": "ng",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Africa/ng.png"
-    },
-    {
-      "name": "us nh",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/North%20America/us_nh.png"
-    },
-    {
-      "name": "ni",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/North%20America/ni.png"
-    },
-    {
-      "name": "gb nir",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Europe/gb_nir.png"
-    },
-    {
-      "name": "us nj",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/North%20America/us_nj.png"
-    },
-    {
-      "name": "nl",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Europe/nl.png"
-    },
-    {
-      "name": "us nm",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/North%20America/us_nm.png"
-    },
-    {
-      "name": "no",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Europe/no.png"
-    },
-    {
-      "name": "np",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Asia/np.png"
-    },
-    {
-      "name": "nr",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Oceania/nr.png"
-    },
-    {
-      "name": "nu",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Oceania/nu.png"
-    },
-    {
-      "name": "us nv",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/North%20America/us_nv.png"
-    },
-    {
-      "name": "us ny",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/North%20America/us_ny.png"
-    },
-    {
-      "name": "nz",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Oceania/nz.png"
-    },
-    {
-      "name": "oc",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/world%20map/oc.png"
-    },
-    {
-      "name": "us oh",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/North%20America/us_oh.png"
-    },
-    {
-      "name": "us ok",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/North%20America/us_ok.png"
-    },
-    {
-      "name": "om",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Asia/om.png"
-    },
-    {
-      "name": "us or",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/North%20America/us_or.png"
-    },
-    {
-      "name": "pa",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/North%20America/pa.png"
-    },
-    {
-      "name": "us pa",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/North%20America/us_pa.png"
-    },
-    {
-      "name": "pe",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/South%20America/pe.png"
-    },
-    {
-      "name": "pf",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Oceania/pf.png"
-    },
-    {
-      "name": "pg",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Oceania/pg.png"
-    },
-    {
-      "name": "ph",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Asia/ph.png"
-    },
-    {
-      "name": "pk",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Asia/pk.png"
-    },
-    {
-      "name": "pl",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Europe/pl.png"
-    },
-    {
-      "name": "pm",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/North%20America/pm.png"
-    },
-    {
-      "name": "pn",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Oceania/pn.png"
-    },
-    {
-      "name": "pr",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/North%20America/pr.png"
-    },
-    {
-      "name": "ps",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Asia/ps.png"
-    },
-    {
-      "name": "pt",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Europe/pt.png"
-    },
-    {
-      "name": "pw",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Oceania/pw.png"
-    },
-    {
-      "name": "py",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/South%20America/py.png"
-    },
-    {
-      "name": "qa",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Asia/qa.png"
-    },
-    {
-      "name": "re",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Africa/re.png"
-    },
-    {
-      "name": "us ri",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/North%20America/us_ri.png"
-    },
-    {
-      "name": "ro",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Europe/ro.png"
-    },
-    {
-      "name": "rs",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Europe/rs.png"
-    },
-    {
-      "name": "ru",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Europe/ru.png"
-    },
-    {
-      "name": "rw",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Africa/rw.png"
-    },
-    {
-      "name": "sa",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Asia/sa.png"
-    },
-    {
-      "name": "sa",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/world%20map/sa.png"
-    },
-    {
-      "name": "sb",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Oceania/sb.png"
-    },
-    {
-      "name": "sb",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/other/sb.png"
-    },
-    {
-      "name": "sc",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Africa/sc.png"
-    },
-    {
-      "name": "us sc",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/North%20America/us_sc.png"
-    },
-    {
-      "name": "gb sct",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Europe/gb_sct.png"
-    },
-    {
-      "name": "sd",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Africa/sd.png"
-    },
-    {
-      "name": "us sd",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/North%20America/us_sd.png"
-    },
-    {
-      "name": "se",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Europe/se.png"
-    },
-    {
-      "name": "sg",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Asia/sg.png"
-    },
-    {
-      "name": "sh",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Africa/sh.png"
-    },
-    {
-      "name": "si",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Europe/si.png"
-    },
-    {
-      "name": "sk",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Europe/sk.png"
-    },
-    {
-      "name": "sl",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Africa/sl.png"
-    },
-    {
-      "name": "sm",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Europe/sm.png"
-    },
-    {
-      "name": "sn",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Africa/sn.png"
-    },
-    {
-      "name": "so",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Africa/so.png"
-    },
-    {
-      "name": "sp",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/other/sp.png"
-    },
-    {
-      "name": "sr",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/other/sr.png"
-    },
-    {
-      "name": "sr",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/South%20America/sr.png"
-    },
-    {
-      "name": "ss",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Africa/ss.png"
-    },
-    {
-      "name": "st",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Africa/st.png"
-    },
-    {
-      "name": "st",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/other/st.png"
-    },
-    {
-      "name": "sv",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/North%20America/sv.png"
-    },
-    {
-      "name": "sx",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/North%20America/sx.png"
-    },
-    {
-      "name": "sy",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Asia/sy.png"
-    },
-    {
-      "name": "sz",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Africa/sz.png"
-    },
-    {
-      "name": "tc",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/North%20America/tc.png"
-    },
-    {
-      "name": "td",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Africa/td.png"
-    },
-    {
-      "name": "tf",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Antarctica/tf.png"
-    },
-    {
-      "name": "tg",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Africa/tg.png"
-    },
-    {
-      "name": "th",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Asia/th.png"
-    },
-    {
-      "name": "tj",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Asia/tj.png"
-    },
-    {
-      "name": "tk",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Oceania/tk.png"
-    },
-    {
-      "name": "tl",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Asia/tl.png"
-    },
-    {
-      "name": "tm",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Asia/tm.png"
-    },
-    {
-      "name": "tn",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Africa/tn.png"
-    },
-    {
-      "name": "us tn",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/North%20America/us_tn.png"
-    },
-    {
-      "name": "to",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Oceania/to.png"
-    },
-    {
-      "name": "tr",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Asia/tr.png"
-    },
-    {
-      "name": "tt",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/North%20America/tt.png"
-    },
-    {
-      "name": "tv",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Oceania/tv.png"
-    },
-    {
-      "name": "cn tw",
+      "name": "中国台湾 cn tw",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Asia/cn_tw.png"
     },
     {
-      "name": "us tx",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/North%20America/us_tx.png"
+      "name": "哥伦比亚 co",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/South%20America/co.png"
     },
     {
-      "name": "tz",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Africa/tz.png"
+      "name": "哥斯达黎加 cr",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/North%20America/cr.png"
     },
     {
-      "name": "ua",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Europe/ua.png"
+      "name": "古巴 cu",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/North%20America/cu.png"
     },
     {
-      "name": "ug",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Africa/ug.png"
+      "name": "佛得角 cv",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Africa/cv.png"
     },
     {
-      "name": "un",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/other/un.png"
+      "name": "库拉索 cw",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/North%20America/cw.png"
     },
     {
-      "name": "us",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/North%20America/us.png"
+      "name": "圣诞岛 cx",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Oceania/cx.png"
     },
     {
-      "name": "us ut",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/North%20America/us_ut.png"
+      "name": "塞浦路斯 cy",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Asia/cy.png"
     },
     {
-      "name": "uy",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/South%20America/uy.png"
+      "name": "捷克 cz",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Europe/cz.png"
     },
     {
-      "name": "uz",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Asia/uz.png"
+      "name": "德国 de",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Europe/de.png"
     },
     {
-      "name": "us va",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/North%20America/us_va.png"
+      "name": "吉布提 dj",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Africa/dj.png"
     },
     {
-      "name": "va",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Europe/va.png"
+      "name": "丹麦 dk",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Europe/dk.png"
     },
     {
-      "name": "vc",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/North%20America/vc.png"
+      "name": "多米尼克 dm",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/North%20America/dm.png"
     },
     {
-      "name": "ve",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/South%20America/ve.png"
+      "name": "多米尼加 do",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/North%20America/do.png"
     },
     {
-      "name": "vg",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/North%20America/vg.png"
+      "name": "阿尔及利亚 dz",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Africa/dz.png"
     },
     {
-      "name": "vi",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/North%20America/vi.png"
+      "name": "厄瓜多尔 ec",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/South%20America/ec.png"
     },
     {
-      "name": "vn",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Asia/vn.png"
+      "name": "爱沙尼亚 ee",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Europe/ee.png"
     },
     {
-      "name": "us vt",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/North%20America/us_vt.png"
+      "name": "埃及 eg",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Africa/eg.png"
     },
     {
-      "name": "vu",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Oceania/vu.png"
+      "name": "西撒哈拉 eh",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Africa/eh.png"
     },
     {
-      "name": "us wa",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/North%20America/us_wa.png"
+      "name": "厄立特里亚 er",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Africa/er.png"
     },
     {
-      "name": "wd",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/world%20map/wd.png"
+      "name": "西班牙 es",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Europe/es.png"
     },
     {
-      "name": "wf",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Oceania/wf.png"
+      "name": "埃塞俄比亚 et",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Africa/et.png"
     },
     {
-      "name": "us wi",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/North%20America/us_wi.png"
+      "name": "芬兰 fi",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Europe/fi.png"
     },
     {
-      "name": "gb wls",
+      "name": "斐济 fj",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Oceania/fj.png"
+    },
+    {
+      "name": "福克兰群岛 fk",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/South%20America/fk.png"
+    },
+    {
+      "name": "密克罗尼西亚 fm",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Oceania/fm.png"
+    },
+    {
+      "name": "法罗群岛 fo",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Europe/fo.png"
+    },
+    {
+      "name": "法国 fr",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Europe/fr.png"
+    },
+    {
+      "name": "加蓬 ga",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Africa/ga.png"
+    },
+    {
+      "name": "英国 gb",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Europe/gb.png"
+    },
+    {
+      "name": "英格兰 gb eng",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Europe/gb_eng.png"
+    },
+    {
+      "name": "北爱尔兰 gb nir",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Europe/gb_nir.png"
+    },
+    {
+      "name": "苏格兰 gb sct",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Europe/gb_sct.png"
+    },
+    {
+      "name": "威尔士 gb wls",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Europe/gb_wls.png"
     },
     {
-      "name": "ws",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Oceania/ws.png"
+      "name": "格林纳达 gd",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/North%20America/gd.png"
     },
     {
-      "name": "us wv",
+      "name": "格鲁吉亚 ge",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Asia/ge.png"
+    },
+    {
+      "name": "法属圭亚那 gf",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/South%20America/gf.png"
+    },
+    {
+      "name": "根西岛 gg",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Europe/gg.png"
+    },
+    {
+      "name": "加纳 gh",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Africa/gh.png"
+    },
+    {
+      "name": "直布罗陀 gi",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Europe/gi.png"
+    },
+    {
+      "name": "格陵兰 gl",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/North%20America/gl.png"
+    },
+    {
+      "name": "冈比亚 gm",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Africa/gm.png"
+    },
+    {
+      "name": "几内亚 gn",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Africa/gn.png"
+    },
+    {
+      "name": "瓜德罗普 gp",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/North%20America/gp.png"
+    },
+    {
+      "name": "赤道几内亚 gq",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Africa/gq.png"
+    },
+    {
+      "name": "希腊 gr",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Europe/gr.png"
+    },
+    {
+      "name": "南乔治亚岛和南桑威奇群岛 gs",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Antarctica/gs.png"
+    },
+    {
+      "name": "危地马拉 gt",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/North%20America/gt.png"
+    },
+    {
+      "name": "关岛 gu",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Oceania/gu.png"
+    },
+    {
+      "name": "几内亚比绍 gw",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Africa/gw.png"
+    },
+    {
+      "name": "圭亚那 gy",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/South%20America/gy.png"
+    },
+    {
+      "name": "洪都拉斯 hn",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/North%20America/hn.png"
+    },
+    {
+      "name": "克罗地亚 hr",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Europe/hr.png"
+    },
+    {
+      "name": "海地 ht",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/North%20America/ht.png"
+    },
+    {
+      "name": "匈牙利 hu",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Europe/hu.png"
+    },
+    {
+      "name": "印度尼西亚 id",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Asia/id.png"
+    },
+    {
+      "name": "爱尔兰 ie",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Europe/ie.png"
+    },
+    {
+      "name": "以色列 il",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Asia/il.png"
+    },
+    {
+      "name": "马恩岛 im",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Europe/im.png"
+    },
+    {
+      "name": "印度 in",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Asia/in.png"
+    },
+    {
+      "name": "英属印度洋领地 io",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Asia/io.png"
+    },
+    {
+      "name": "伊拉克 iq",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Asia/iq.png"
+    },
+    {
+      "name": "伊朗 ir",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Asia/ir.png"
+    },
+    {
+      "name": "冰岛 is",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Europe/is.png"
+    },
+    {
+      "name": "意大利 it",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Europe/it.png"
+    },
+    {
+      "name": "泽西岛 je",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Europe/je.png"
+    },
+    {
+      "name": "牙买加 jm",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/North%20America/jm.png"
+    },
+    {
+      "name": "约旦 jo",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Asia/jo.png"
+    },
+    {
+      "name": "日本 jp",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Asia/jp.png"
+    },
+    {
+      "name": "肯尼亚 ke",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Africa/ke.png"
+    },
+    {
+      "name": "吉尔吉斯斯坦 kg",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Asia/kg.png"
+    },
+    {
+      "name": "柬埔寨 kh",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Asia/kh.png"
+    },
+    {
+      "name": "基里巴斯 ki",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Oceania/ki.png"
+    },
+    {
+      "name": "科摩罗 km",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Africa/km.png"
+    },
+    {
+      "name": "圣基茨和尼维斯 kn",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/North%20America/kn.png"
+    },
+    {
+      "name": "朝鲜 kp",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Asia/kp.png"
+    },
+    {
+      "name": "韩国 kr",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Asia/kr.png"
+    },
+    {
+      "name": "科威特 kw",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Asia/kw.png"
+    },
+    {
+      "name": "开曼群岛 ky",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/North%20America/ky.png"
+    },
+    {
+      "name": "哈萨克斯坦 kz",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Asia/kz.png"
+    },
+    {
+      "name": "老挝 la",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Asia/la.png"
+    },
+    {
+      "name": "黎巴嫩 lb",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Asia/lb.png"
+    },
+    {
+      "name": "圣卢西亚 lc",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/North%20America/lc.png"
+    },
+    {
+      "name": "列支敦士登 li",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Europe/li.png"
+    },
+    {
+      "name": "斯里兰卡 lk",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Asia/lk.png"
+    },
+    {
+      "name": "利比里亚 lr",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Africa/lr.png"
+    },
+    {
+      "name": "莱索托 ls",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Africa/ls.png"
+    },
+    {
+      "name": "立陶宛 lt",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Europe/lt.png"
+    },
+    {
+      "name": "卢森堡 lu",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Europe/lu.png"
+    },
+    {
+      "name": "拉脱维亚 lv",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Europe/lv.png"
+    },
+    {
+      "name": "利比亚 ly",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Africa/ly.png"
+    },
+    {
+      "name": "摩洛哥 ma",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Africa/ma.png"
+    },
+    {
+      "name": "摩纳哥 mc",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Europe/mc.png"
+    },
+    {
+      "name": "摩尔多瓦 md",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Europe/md.png"
+    },
+    {
+      "name": "黑山 me",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Europe/me.png"
+    },
+    {
+      "name": "马达加斯加 mg",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Africa/mg.png"
+    },
+    {
+      "name": "马绍尔群岛 mh",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Oceania/mh.png"
+    },
+    {
+      "name": "北马其顿 mk",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Europe/mk.png"
+    },
+    {
+      "name": "马里 ml",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Africa/ml.png"
+    },
+    {
+      "name": "缅甸 mm",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Asia/mm.png"
+    },
+    {
+      "name": "蒙古 mn",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Asia/mn.png"
+    },
+    {
+      "name": "北马里亚纳群岛 mp",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Oceania/mp.png"
+    },
+    {
+      "name": "马提尼克 mq",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/North%20America/mq.png"
+    },
+    {
+      "name": "毛里塔尼亚 mr",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Africa/mr.png"
+    },
+    {
+      "name": "蒙特塞拉特 ms",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/North%20America/ms.png"
+    },
+    {
+      "name": "马耳他 mt",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Europe/mt.png"
+    },
+    {
+      "name": "毛里求斯 mu",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Africa/mu.png"
+    },
+    {
+      "name": "马尔代夫 mv",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Asia/mv.png"
+    },
+    {
+      "name": "马拉维 mw",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Africa/mw.png"
+    },
+    {
+      "name": "墨西哥 mx",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/North%20America/mx.png"
+    },
+    {
+      "name": "马来西亚 my",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Asia/my.png"
+    },
+    {
+      "name": "莫桑比克 mz",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Africa/mz.png"
+    },
+    {
+      "name": "纳米比亚 na",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Africa/na.png"
+    },
+    {
+      "name": "新喀里多尼亚 nc",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Oceania/nc.png"
+    },
+    {
+      "name": "尼日尔 ne",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Africa/ne.png"
+    },
+    {
+      "name": "诺福克岛 nf",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Oceania/nf.png"
+    },
+    {
+      "name": "尼日利亚 ng",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Africa/ng.png"
+    },
+    {
+      "name": "尼加拉瓜 ni",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/North%20America/ni.png"
+    },
+    {
+      "name": "荷兰 nl",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Europe/nl.png"
+    },
+    {
+      "name": "挪威 no",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Europe/no.png"
+    },
+    {
+      "name": "尼泊尔 np",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Asia/np.png"
+    },
+    {
+      "name": "瑙鲁 nr",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Oceania/nr.png"
+    },
+    {
+      "name": "纽埃 nu",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Oceania/nu.png"
+    },
+    {
+      "name": "新西兰 nz",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Oceania/nz.png"
+    },
+    {
+      "name": "阿曼 om",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Asia/om.png"
+    },
+    {
+      "name": "巴拿马 pa",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/North%20America/pa.png"
+    },
+    {
+      "name": "秘鲁 pe",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/South%20America/pe.png"
+    },
+    {
+      "name": "法属波利尼西亚 pf",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Oceania/pf.png"
+    },
+    {
+      "name": "巴布亚新几内亚 pg",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Oceania/pg.png"
+    },
+    {
+      "name": "菲律宾 ph",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Asia/ph.png"
+    },
+    {
+      "name": "巴基斯坦 pk",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Asia/pk.png"
+    },
+    {
+      "name": "波兰 pl",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Europe/pl.png"
+    },
+    {
+      "name": "圣皮埃尔和密克隆 pm",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/North%20America/pm.png"
+    },
+    {
+      "name": "皮特凯恩群岛 pn",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Oceania/pn.png"
+    },
+    {
+      "name": "波多黎各 pr",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/North%20America/pr.png"
+    },
+    {
+      "name": "巴勒斯坦 ps",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Asia/ps.png"
+    },
+    {
+      "name": "葡萄牙 pt",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Europe/pt.png"
+    },
+    {
+      "name": "帕劳 pw",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Oceania/pw.png"
+    },
+    {
+      "name": "巴拉圭 py",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/South%20America/py.png"
+    },
+    {
+      "name": "卡塔尔 qa",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Asia/qa.png"
+    },
+    {
+      "name": "留尼汪 re",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Africa/re.png"
+    },
+    {
+      "name": "罗马尼亚 ro",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Europe/ro.png"
+    },
+    {
+      "name": "塞尔维亚 rs",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Europe/rs.png"
+    },
+    {
+      "name": "俄罗斯 ru",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Europe/ru.png"
+    },
+    {
+      "name": "卢旺达 rw",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Africa/rw.png"
+    },
+    {
+      "name": "沙特阿拉伯 sa",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Asia/sa.png"
+    },
+    {
+      "name": "所罗门群岛 sb",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Oceania/sb.png"
+    },
+    {
+      "name": "塞舌尔 sc",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Africa/sc.png"
+    },
+    {
+      "name": "苏丹 sd",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Africa/sd.png"
+    },
+    {
+      "name": "瑞典 se",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Europe/se.png"
+    },
+    {
+      "name": "新加坡 sg",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Asia/sg.png"
+    },
+    {
+      "name": "圣赫勒拿 sh",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Africa/sh.png"
+    },
+    {
+      "name": "斯洛文尼亚 si",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Europe/si.png"
+    },
+    {
+      "name": "斯洛伐克 sk",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Europe/sk.png"
+    },
+    {
+      "name": "塞拉利昂 sl",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Africa/sl.png"
+    },
+    {
+      "name": "圣马力诺 sm",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Europe/sm.png"
+    },
+    {
+      "name": "塞内加尔 sn",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Africa/sn.png"
+    },
+    {
+      "name": "索马里 so",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Africa/so.png"
+    },
+    {
+      "name": "苏里南 sr",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/South%20America/sr.png"
+    },
+    {
+      "name": "南苏丹 ss",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Africa/ss.png"
+    },
+    {
+      "name": "圣多美和普林西比 st",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Africa/st.png"
+    },
+    {
+      "name": "萨尔瓦多 sv",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/North%20America/sv.png"
+    },
+    {
+      "name": "荷属圣马丁 sx",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/North%20America/sx.png"
+    },
+    {
+      "name": "叙利亚 sy",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Asia/sy.png"
+    },
+    {
+      "name": "斯威士兰 sz",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Africa/sz.png"
+    },
+    {
+      "name": "特克斯和凯科斯群岛 tc",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/North%20America/tc.png"
+    },
+    {
+      "name": "乍得 td",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Africa/td.png"
+    },
+    {
+      "name": "法属南部领地 tf",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Antarctica/tf.png"
+    },
+    {
+      "name": "多哥 tg",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Africa/tg.png"
+    },
+    {
+      "name": "泰国 th",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Asia/th.png"
+    },
+    {
+      "name": "塔吉克斯坦 tj",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Asia/tj.png"
+    },
+    {
+      "name": "托克劳 tk",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Oceania/tk.png"
+    },
+    {
+      "name": "东帝汶 tl",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Asia/tl.png"
+    },
+    {
+      "name": "土库曼斯坦 tm",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Asia/tm.png"
+    },
+    {
+      "name": "突尼斯 tn",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Africa/tn.png"
+    },
+    {
+      "name": "汤加 to",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Oceania/to.png"
+    },
+    {
+      "name": "土耳其 tr",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Asia/tr.png"
+    },
+    {
+      "name": "特立尼达和多巴哥 tt",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/North%20America/tt.png"
+    },
+    {
+      "name": "图瓦卢 tv",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Oceania/tv.png"
+    },
+    {
+      "name": "坦桑尼亚 tz",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Africa/tz.png"
+    },
+    {
+      "name": "乌克兰 ua",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Europe/ua.png"
+    },
+    {
+      "name": "乌干达 ug",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Africa/ug.png"
+    },
+    {
+      "name": "美国 us",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/North%20America/us.png"
+    },
+    {
+      "name": "美国阿拉斯加州 us ak",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/North%20America/us_ak.png"
+    },
+    {
+      "name": "美国阿拉巴马州 us al",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/North%20America/us_al.png"
+    },
+    {
+      "name": "美国阿肯色州 us ar",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/North%20America/us_ar.png"
+    },
+    {
+      "name": "美国亚利桑那州 us az",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/North%20America/us_az.png"
+    },
+    {
+      "name": "美国加利福尼亚州 us ca",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/North%20America/us_ca.png"
+    },
+    {
+      "name": "美国科罗拉多州 us co",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/North%20America/us_co.png"
+    },
+    {
+      "name": "美国康涅狄格州 us ct",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/North%20America/us_ct.png"
+    },
+    {
+      "name": "美国特拉华州 us de",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/North%20America/us_de.png"
+    },
+    {
+      "name": "美国佛罗里达州 us fl",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/North%20America/us_fl.png"
+    },
+    {
+      "name": "美国佐治亚州 us ga",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/North%20America/us_ga.png"
+    },
+    {
+      "name": "美国夏威夷州 us hi",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/North%20America/us_hi.png"
+    },
+    {
+      "name": "美国爱荷华州 us ia",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/North%20America/us_ia.png"
+    },
+    {
+      "name": "美国爱达荷州 us id",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/North%20America/us_id.png"
+    },
+    {
+      "name": "美国伊利诺伊州 us il",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/North%20America/us_il.png"
+    },
+    {
+      "name": "美国印第安纳州 us in",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/North%20America/us_in.png"
+    },
+    {
+      "name": "美国堪萨斯州 us ks",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/North%20America/us_ks.png"
+    },
+    {
+      "name": "美国肯塔基州 us ky",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/North%20America/us_ky.png"
+    },
+    {
+      "name": "美国路易斯安那州 us la",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/North%20America/us_la.png"
+    },
+    {
+      "name": "美国马萨诸塞州 us ma",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/North%20America/us_ma.png"
+    },
+    {
+      "name": "美国马里兰州 us md",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/North%20America/us_md.png"
+    },
+    {
+      "name": "美国缅因州 us me",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/North%20America/us_me.png"
+    },
+    {
+      "name": "美国密歇根州 us mi",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/North%20America/us_mi.png"
+    },
+    {
+      "name": "美国明尼苏达州 us mn",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/North%20America/us_mn.png"
+    },
+    {
+      "name": "美国密苏里州 us mo",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/North%20America/us_mo.png"
+    },
+    {
+      "name": "美国密西西比州 us ms",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/North%20America/us_ms.png"
+    },
+    {
+      "name": "美国蒙大拿州 us mt",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/North%20America/us_mt.png"
+    },
+    {
+      "name": "美国北卡罗来纳州 us nc",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/North%20America/us_nc.png"
+    },
+    {
+      "name": "美国北达科他州 us nd",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/North%20America/us_nd.png"
+    },
+    {
+      "name": "美国内布拉斯加州 us ne",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/North%20America/us_ne.png"
+    },
+    {
+      "name": "美国新罕布什尔州 us nh",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/North%20America/us_nh.png"
+    },
+    {
+      "name": "美国新泽西州 us nj",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/North%20America/us_nj.png"
+    },
+    {
+      "name": "美国新墨西哥州 us nm",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/North%20America/us_nm.png"
+    },
+    {
+      "name": "美国内华达州 us nv",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/North%20America/us_nv.png"
+    },
+    {
+      "name": "美国纽约州 us ny",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/North%20America/us_ny.png"
+    },
+    {
+      "name": "美国俄亥俄州 us oh",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/North%20America/us_oh.png"
+    },
+    {
+      "name": "美国俄克拉荷马州 us ok",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/North%20America/us_ok.png"
+    },
+    {
+      "name": "美国俄勒冈州 us or",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/North%20America/us_or.png"
+    },
+    {
+      "name": "美国宾夕法尼亚州 us pa",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/North%20America/us_pa.png"
+    },
+    {
+      "name": "美国罗得岛州 us ri",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/North%20America/us_ri.png"
+    },
+    {
+      "name": "美国南卡罗来纳州 us sc",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/North%20America/us_sc.png"
+    },
+    {
+      "name": "美国南达科他州 us sd",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/North%20America/us_sd.png"
+    },
+    {
+      "name": "美国田纳西州 us tn",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/North%20America/us_tn.png"
+    },
+    {
+      "name": "美国得克萨斯州 us tx",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/North%20America/us_tx.png"
+    },
+    {
+      "name": "美国犹他州 us ut",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/North%20America/us_ut.png"
+    },
+    {
+      "name": "美国弗吉尼亚州 us va",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/North%20America/us_va.png"
+    },
+    {
+      "name": "美国佛蒙特州 us vt",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/North%20America/us_vt.png"
+    },
+    {
+      "name": "美国华盛顿州 us wa",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/North%20America/us_wa.png"
+    },
+    {
+      "name": "美国威斯康星州 us wi",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/North%20America/us_wi.png"
+    },
+    {
+      "name": "美国西弗吉尼亚州 us wv",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/North%20America/us_wv.png"
     },
     {
-      "name": "us wy",
+      "name": "美国怀俄明州 us wy",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/North%20America/us_wy.png"
     },
     {
-      "name": "xk",
+      "name": "乌拉圭 uy",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/South%20America/uy.png"
+    },
+    {
+      "name": "乌兹别克斯坦 uz",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Asia/uz.png"
+    },
+    {
+      "name": "梵蒂冈 va",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Europe/va.png"
+    },
+    {
+      "name": "圣文森特和格林纳丁斯 vc",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/North%20America/vc.png"
+    },
+    {
+      "name": "委内瑞拉 ve",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/South%20America/ve.png"
+    },
+    {
+      "name": "英属维尔京群岛 vg",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/North%20America/vg.png"
+    },
+    {
+      "name": "美属维尔京群岛 vi",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/North%20America/vi.png"
+    },
+    {
+      "name": "越南 vn",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Asia/vn.png"
+    },
+    {
+      "name": "瓦努阿图 vu",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Oceania/vu.png"
+    },
+    {
+      "name": "瓦利斯和富图纳 wf",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Oceania/wf.png"
+    },
+    {
+      "name": "萨摩亚 ws",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Oceania/ws.png"
+    },
+    {
+      "name": "科索沃 xk",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Europe/xk.png"
     },
     {
-      "name": "ye",
+      "name": "也门 ye",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Asia/ye.png"
     },
     {
-      "name": "yt",
+      "name": "马约特 yt",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Africa/yt.png"
     },
     {
-      "name": "za",
+      "name": "南非 za",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Africa/za.png"
     },
     {
-      "name": "zm",
+      "name": "赞比亚 zm",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Africa/zm.png"
     },
     {
-      "name": "zw",
+      "name": "津巴布韦 zw",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/Africa/zw.png"
+    },
+    {
+      "name": "欧盟 eu",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/other/eu.png"
+    },
+    {
+      "name": "黑旗 sb",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/other/sb.png"
+    },
+    {
+      "name": "海盗旗 sp",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/other/sp.png"
+    },
+    {
+      "name": "彩虹旗 sr",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/other/sr.png"
+    },
+    {
+      "name": "跨性别旗 st",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/other/st.png"
+    },
+    {
+      "name": "联合国 un",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/other/un.png"
+    },
+    {
+      "name": "中国地图 cn",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/world%20map/cn.png"
+    },
+    {
+      "name": "非洲地图 af",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/world%20map/af.png"
+    },
+    {
+      "name": "南极洲地图 an",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/world%20map/an.png"
+    },
+    {
+      "name": "亚洲地图 as",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/world%20map/as.png"
+    },
+    {
+      "name": "欧洲地图 eu",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/world%20map/eu.png"
+    },
+    {
+      "name": "北美洲地图 na",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/world%20map/na.png"
+    },
+    {
+      "name": "大洋洲地图 oc",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/world%20map/oc.png"
+    },
+    {
+      "name": "南美洲地图 sa",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/world%20map/sa.png"
+    },
+    {
+      "name": "世界地图 wd",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/1024px/world%20map/wd.png"
     }
   ]
 }
