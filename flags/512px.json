@@ -1,0 +1,1258 @@
+{
+  "name": "Flags",
+  "description": "World flags - 512px",
+  "icons": [
+    {
+      "name": "ad",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Europe/ad.png"
+    },
+    {
+      "name": "ae",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Asia/ae.png"
+    },
+    {
+      "name": "af",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Asia/af.png"
+    },
+    {
+      "name": "af",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/world%20map/af.png"
+    },
+    {
+      "name": "ag",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/North%20America/ag.png"
+    },
+    {
+      "name": "ai",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/North%20America/ai.png"
+    },
+    {
+      "name": "us ak",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/North%20America/us_ak.png"
+    },
+    {
+      "name": "al",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Europe/al.png"
+    },
+    {
+      "name": "us al",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/North%20America/us_al.png"
+    },
+    {
+      "name": "am",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Asia/am.png"
+    },
+    {
+      "name": "an",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/world%20map/an.png"
+    },
+    {
+      "name": "ao",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Africa/ao.png"
+    },
+    {
+      "name": "ar",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/South%20America/ar.png"
+    },
+    {
+      "name": "us ar",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/North%20America/us_ar.png"
+    },
+    {
+      "name": "as",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Oceania/as.png"
+    },
+    {
+      "name": "as",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/world%20map/as.png"
+    },
+    {
+      "name": "at",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Europe/at.png"
+    },
+    {
+      "name": "au",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Oceania/au.png"
+    },
+    {
+      "name": "aw",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/North%20America/aw.png"
+    },
+    {
+      "name": "ax",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Europe/ax.png"
+    },
+    {
+      "name": "az",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Asia/az.png"
+    },
+    {
+      "name": "us az",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/North%20America/us_az.png"
+    },
+    {
+      "name": "ba",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Europe/ba.png"
+    },
+    {
+      "name": "bb",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/North%20America/bb.png"
+    },
+    {
+      "name": "bd",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Asia/bd.png"
+    },
+    {
+      "name": "be",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Europe/be.png"
+    },
+    {
+      "name": "bf",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Africa/bf.png"
+    },
+    {
+      "name": "bg",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Europe/bg.png"
+    },
+    {
+      "name": "bh",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Asia/bh.png"
+    },
+    {
+      "name": "bi",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Africa/bi.png"
+    },
+    {
+      "name": "bj",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Africa/bj.png"
+    },
+    {
+      "name": "bl",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/North%20America/bl.png"
+    },
+    {
+      "name": "bm",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/North%20America/bm.png"
+    },
+    {
+      "name": "bn",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Asia/bn.png"
+    },
+    {
+      "name": "bo",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/South%20America/bo.png"
+    },
+    {
+      "name": "bq",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/North%20America/bq.png"
+    },
+    {
+      "name": "br",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/South%20America/br.png"
+    },
+    {
+      "name": "bs",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/North%20America/bs.png"
+    },
+    {
+      "name": "bt",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Asia/bt.png"
+    },
+    {
+      "name": "bw",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Africa/bw.png"
+    },
+    {
+      "name": "by",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Europe/by.png"
+    },
+    {
+      "name": "bz",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/North%20America/bz.png"
+    },
+    {
+      "name": "ca",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/North%20America/ca.png"
+    },
+    {
+      "name": "us ca",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/North%20America/us_ca.png"
+    },
+    {
+      "name": "cc",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Oceania/cc.png"
+    },
+    {
+      "name": "cd",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Africa/cd.png"
+    },
+    {
+      "name": "cf",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Africa/cf.png"
+    },
+    {
+      "name": "cg",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Africa/cg.png"
+    },
+    {
+      "name": "ch",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Europe/ch.png"
+    },
+    {
+      "name": "ci",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Africa/ci.png"
+    },
+    {
+      "name": "ck",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Oceania/ck.png"
+    },
+    {
+      "name": "cl",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/South%20America/cl.png"
+    },
+    {
+      "name": "cm",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Africa/cm.png"
+    },
+    {
+      "name": "cn",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Asia/cn.png"
+    },
+    {
+      "name": "cn",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/world%20map/cn.png"
+    },
+    {
+      "name": "co",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/South%20America/co.png"
+    },
+    {
+      "name": "us co",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/North%20America/us_co.png"
+    },
+    {
+      "name": "cr",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/North%20America/cr.png"
+    },
+    {
+      "name": "us ct",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/North%20America/us_ct.png"
+    },
+    {
+      "name": "cu",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/North%20America/cu.png"
+    },
+    {
+      "name": "cv",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Africa/cv.png"
+    },
+    {
+      "name": "cw",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/North%20America/cw.png"
+    },
+    {
+      "name": "cx",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Oceania/cx.png"
+    },
+    {
+      "name": "cy",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Asia/cy.png"
+    },
+    {
+      "name": "cz",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Europe/cz.png"
+    },
+    {
+      "name": "de",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Europe/de.png"
+    },
+    {
+      "name": "us de",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/North%20America/us_de.png"
+    },
+    {
+      "name": "dj",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Africa/dj.png"
+    },
+    {
+      "name": "dk",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Europe/dk.png"
+    },
+    {
+      "name": "dm",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/North%20America/dm.png"
+    },
+    {
+      "name": "do",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/North%20America/do.png"
+    },
+    {
+      "name": "dz",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Africa/dz.png"
+    },
+    {
+      "name": "ec",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/South%20America/ec.png"
+    },
+    {
+      "name": "ee",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Europe/ee.png"
+    },
+    {
+      "name": "eg",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Africa/eg.png"
+    },
+    {
+      "name": "eh",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Africa/eh.png"
+    },
+    {
+      "name": "gb eng",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Europe/gb_eng.png"
+    },
+    {
+      "name": "er",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Africa/er.png"
+    },
+    {
+      "name": "es",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Europe/es.png"
+    },
+    {
+      "name": "et",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Africa/et.png"
+    },
+    {
+      "name": "eu",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/other/eu.png"
+    },
+    {
+      "name": "eu",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/world%20map/eu.png"
+    },
+    {
+      "name": "fi",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Europe/fi.png"
+    },
+    {
+      "name": "fj",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Oceania/fj.png"
+    },
+    {
+      "name": "fk",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/South%20America/fk.png"
+    },
+    {
+      "name": "us fl",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/North%20America/us_fl.png"
+    },
+    {
+      "name": "fm",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Oceania/fm.png"
+    },
+    {
+      "name": "fo",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Europe/fo.png"
+    },
+    {
+      "name": "fr",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Europe/fr.png"
+    },
+    {
+      "name": "ga",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Africa/ga.png"
+    },
+    {
+      "name": "us ga",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/North%20America/us_ga.png"
+    },
+    {
+      "name": "gb",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Europe/gb.png"
+    },
+    {
+      "name": "gd",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/North%20America/gd.png"
+    },
+    {
+      "name": "ge",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Asia/ge.png"
+    },
+    {
+      "name": "gf",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/South%20America/gf.png"
+    },
+    {
+      "name": "gg",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Europe/gg.png"
+    },
+    {
+      "name": "gh",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Africa/gh.png"
+    },
+    {
+      "name": "gi",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Europe/gi.png"
+    },
+    {
+      "name": "gl",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/North%20America/gl.png"
+    },
+    {
+      "name": "gm",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Africa/gm.png"
+    },
+    {
+      "name": "gn",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Africa/gn.png"
+    },
+    {
+      "name": "gp",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/North%20America/gp.png"
+    },
+    {
+      "name": "gq",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Africa/gq.png"
+    },
+    {
+      "name": "gr",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Europe/gr.png"
+    },
+    {
+      "name": "gs",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Antarctica/gs.png"
+    },
+    {
+      "name": "gt",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/North%20America/gt.png"
+    },
+    {
+      "name": "gu",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Oceania/gu.png"
+    },
+    {
+      "name": "gw",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Africa/gw.png"
+    },
+    {
+      "name": "gy",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/South%20America/gy.png"
+    },
+    {
+      "name": "us hi",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/North%20America/us_hi.png"
+    },
+    {
+      "name": "cn hk",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Asia/cn_hk.png"
+    },
+    {
+      "name": "hn",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/North%20America/hn.png"
+    },
+    {
+      "name": "hr",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Europe/hr.png"
+    },
+    {
+      "name": "ht",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/North%20America/ht.png"
+    },
+    {
+      "name": "hu",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Europe/hu.png"
+    },
+    {
+      "name": "us ia",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/North%20America/us_ia.png"
+    },
+    {
+      "name": "id",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Asia/id.png"
+    },
+    {
+      "name": "us id",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/North%20America/us_id.png"
+    },
+    {
+      "name": "ie",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Europe/ie.png"
+    },
+    {
+      "name": "il",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Asia/il.png"
+    },
+    {
+      "name": "us il",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/North%20America/us_il.png"
+    },
+    {
+      "name": "im",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Europe/im.png"
+    },
+    {
+      "name": "in",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Asia/in.png"
+    },
+    {
+      "name": "us in",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/North%20America/us_in.png"
+    },
+    {
+      "name": "io",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Asia/io.png"
+    },
+    {
+      "name": "iq",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Asia/iq.png"
+    },
+    {
+      "name": "ir",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Asia/ir.png"
+    },
+    {
+      "name": "is",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Europe/is.png"
+    },
+    {
+      "name": "it",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Europe/it.png"
+    },
+    {
+      "name": "je",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Europe/je.png"
+    },
+    {
+      "name": "jm",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/North%20America/jm.png"
+    },
+    {
+      "name": "jo",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Asia/jo.png"
+    },
+    {
+      "name": "jp",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Asia/jp.png"
+    },
+    {
+      "name": "ke",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Africa/ke.png"
+    },
+    {
+      "name": "kg",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Asia/kg.png"
+    },
+    {
+      "name": "kh",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Asia/kh.png"
+    },
+    {
+      "name": "ki",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Oceania/ki.png"
+    },
+    {
+      "name": "km",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Africa/km.png"
+    },
+    {
+      "name": "kn",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/North%20America/kn.png"
+    },
+    {
+      "name": "kp",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Asia/kp.png"
+    },
+    {
+      "name": "kr",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Asia/kr.png"
+    },
+    {
+      "name": "us ks",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/North%20America/us_ks.png"
+    },
+    {
+      "name": "kw",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Asia/kw.png"
+    },
+    {
+      "name": "ky",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/North%20America/ky.png"
+    },
+    {
+      "name": "us ky",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/North%20America/us_ky.png"
+    },
+    {
+      "name": "kz",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Asia/kz.png"
+    },
+    {
+      "name": "la",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Asia/la.png"
+    },
+    {
+      "name": "us la",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/North%20America/us_la.png"
+    },
+    {
+      "name": "lb",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Asia/lb.png"
+    },
+    {
+      "name": "lc",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/North%20America/lc.png"
+    },
+    {
+      "name": "li",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Europe/li.png"
+    },
+    {
+      "name": "lk",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Asia/lk.png"
+    },
+    {
+      "name": "lr",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Africa/lr.png"
+    },
+    {
+      "name": "ls",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Africa/ls.png"
+    },
+    {
+      "name": "lt",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Europe/lt.png"
+    },
+    {
+      "name": "lu",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Europe/lu.png"
+    },
+    {
+      "name": "lv",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Europe/lv.png"
+    },
+    {
+      "name": "ly",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Africa/ly.png"
+    },
+    {
+      "name": "ma",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Africa/ma.png"
+    },
+    {
+      "name": "us ma",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/North%20America/us_ma.png"
+    },
+    {
+      "name": "mc",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Europe/mc.png"
+    },
+    {
+      "name": "md",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Europe/md.png"
+    },
+    {
+      "name": "us md",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/North%20America/us_md.png"
+    },
+    {
+      "name": "me",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Europe/me.png"
+    },
+    {
+      "name": "us me",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/North%20America/us_me.png"
+    },
+    {
+      "name": "mg",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Africa/mg.png"
+    },
+    {
+      "name": "mh",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Oceania/mh.png"
+    },
+    {
+      "name": "us mi",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/North%20America/us_mi.png"
+    },
+    {
+      "name": "mk",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Europe/mk.png"
+    },
+    {
+      "name": "ml",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Africa/ml.png"
+    },
+    {
+      "name": "mm",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Asia/mm.png"
+    },
+    {
+      "name": "mn",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Asia/mn.png"
+    },
+    {
+      "name": "us mn",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/North%20America/us_mn.png"
+    },
+    {
+      "name": "cn mo",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Asia/cn_mo.png"
+    },
+    {
+      "name": "us mo",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/North%20America/us_mo.png"
+    },
+    {
+      "name": "mp",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Oceania/mp.png"
+    },
+    {
+      "name": "mq",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/North%20America/mq.png"
+    },
+    {
+      "name": "mr",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Africa/mr.png"
+    },
+    {
+      "name": "ms",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/North%20America/ms.png"
+    },
+    {
+      "name": "us ms",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/North%20America/us_ms.png"
+    },
+    {
+      "name": "mt",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Europe/mt.png"
+    },
+    {
+      "name": "us mt",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/North%20America/us_mt.png"
+    },
+    {
+      "name": "mu",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Africa/mu.png"
+    },
+    {
+      "name": "mv",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Asia/mv.png"
+    },
+    {
+      "name": "mw",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Africa/mw.png"
+    },
+    {
+      "name": "mx",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/North%20America/mx.png"
+    },
+    {
+      "name": "my",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Asia/my.png"
+    },
+    {
+      "name": "mz",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Africa/mz.png"
+    },
+    {
+      "name": "na",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Africa/na.png"
+    },
+    {
+      "name": "na",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/world%20map/na.png"
+    },
+    {
+      "name": "nc",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Oceania/nc.png"
+    },
+    {
+      "name": "us nc",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/North%20America/us_nc.png"
+    },
+    {
+      "name": "us nd",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/North%20America/us_nd.png"
+    },
+    {
+      "name": "ne",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Africa/ne.png"
+    },
+    {
+      "name": "us ne",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/North%20America/us_ne.png"
+    },
+    {
+      "name": "nf",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Oceania/nf.png"
+    },
+    {
+      "name": "ng",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Africa/ng.png"
+    },
+    {
+      "name": "us nh",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/North%20America/us_nh.png"
+    },
+    {
+      "name": "ni",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/North%20America/ni.png"
+    },
+    {
+      "name": "gb nir",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Europe/gb_nir.png"
+    },
+    {
+      "name": "us nj",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/North%20America/us_nj.png"
+    },
+    {
+      "name": "nl",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Europe/nl.png"
+    },
+    {
+      "name": "us nm",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/North%20America/us_nm.png"
+    },
+    {
+      "name": "no",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Europe/no.png"
+    },
+    {
+      "name": "np",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Asia/np.png"
+    },
+    {
+      "name": "nr",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Oceania/nr.png"
+    },
+    {
+      "name": "nu",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Oceania/nu.png"
+    },
+    {
+      "name": "us nv",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/North%20America/us_nv.png"
+    },
+    {
+      "name": "us ny",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/North%20America/us_ny.png"
+    },
+    {
+      "name": "nz",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Oceania/nz.png"
+    },
+    {
+      "name": "oc",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/world%20map/oc.png"
+    },
+    {
+      "name": "us oh",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/North%20America/us_oh.png"
+    },
+    {
+      "name": "us ok",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/North%20America/us_ok.png"
+    },
+    {
+      "name": "om",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Asia/om.png"
+    },
+    {
+      "name": "us or",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/North%20America/us_or.png"
+    },
+    {
+      "name": "pa",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/North%20America/pa.png"
+    },
+    {
+      "name": "us pa",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/North%20America/us_pa.png"
+    },
+    {
+      "name": "pe",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/South%20America/pe.png"
+    },
+    {
+      "name": "pf",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Oceania/pf.png"
+    },
+    {
+      "name": "pg",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Oceania/pg.png"
+    },
+    {
+      "name": "ph",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Asia/ph.png"
+    },
+    {
+      "name": "pk",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Asia/pk.png"
+    },
+    {
+      "name": "pl",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Europe/pl.png"
+    },
+    {
+      "name": "pm",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/North%20America/pm.png"
+    },
+    {
+      "name": "pn",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Oceania/pn.png"
+    },
+    {
+      "name": "pr",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/North%20America/pr.png"
+    },
+    {
+      "name": "ps",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Asia/ps.png"
+    },
+    {
+      "name": "pt",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Europe/pt.png"
+    },
+    {
+      "name": "pw",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Oceania/pw.png"
+    },
+    {
+      "name": "py",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/South%20America/py.png"
+    },
+    {
+      "name": "qa",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Asia/qa.png"
+    },
+    {
+      "name": "re",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Africa/re.png"
+    },
+    {
+      "name": "us ri",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/North%20America/us_ri.png"
+    },
+    {
+      "name": "ro",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Europe/ro.png"
+    },
+    {
+      "name": "rs",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Europe/rs.png"
+    },
+    {
+      "name": "ru",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Europe/ru.png"
+    },
+    {
+      "name": "rw",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Africa/rw.png"
+    },
+    {
+      "name": "sa",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Asia/sa.png"
+    },
+    {
+      "name": "sa",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/world%20map/sa.png"
+    },
+    {
+      "name": "sb",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Oceania/sb.png"
+    },
+    {
+      "name": "sb",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/other/sb.png"
+    },
+    {
+      "name": "sc",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Africa/sc.png"
+    },
+    {
+      "name": "us sc",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/North%20America/us_sc.png"
+    },
+    {
+      "name": "gb sct",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Europe/gb_sct.png"
+    },
+    {
+      "name": "sd",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Africa/sd.png"
+    },
+    {
+      "name": "us sd",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/North%20America/us_sd.png"
+    },
+    {
+      "name": "se",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Europe/se.png"
+    },
+    {
+      "name": "sg",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Asia/sg.png"
+    },
+    {
+      "name": "sh",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Africa/sh.png"
+    },
+    {
+      "name": "si",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Europe/si.png"
+    },
+    {
+      "name": "sk",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Europe/sk.png"
+    },
+    {
+      "name": "sl",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Africa/sl.png"
+    },
+    {
+      "name": "sm",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Europe/sm.png"
+    },
+    {
+      "name": "sn",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Africa/sn.png"
+    },
+    {
+      "name": "so",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Africa/so.png"
+    },
+    {
+      "name": "sp",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/other/sp.png"
+    },
+    {
+      "name": "sr",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/other/sr.png"
+    },
+    {
+      "name": "sr",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/South%20America/sr.png"
+    },
+    {
+      "name": "ss",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Africa/ss.png"
+    },
+    {
+      "name": "st",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Africa/st.png"
+    },
+    {
+      "name": "st",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/other/st.png"
+    },
+    {
+      "name": "sv",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/North%20America/sv.png"
+    },
+    {
+      "name": "sx",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/North%20America/sx.png"
+    },
+    {
+      "name": "sy",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Asia/sy.png"
+    },
+    {
+      "name": "sz",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Africa/sz.png"
+    },
+    {
+      "name": "tc",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/North%20America/tc.png"
+    },
+    {
+      "name": "td",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Africa/td.png"
+    },
+    {
+      "name": "tf",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Antarctica/tf.png"
+    },
+    {
+      "name": "tg",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Africa/tg.png"
+    },
+    {
+      "name": "th",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Asia/th.png"
+    },
+    {
+      "name": "tj",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Asia/tj.png"
+    },
+    {
+      "name": "tk",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Oceania/tk.png"
+    },
+    {
+      "name": "tl",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Asia/tl.png"
+    },
+    {
+      "name": "tm",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Asia/tm.png"
+    },
+    {
+      "name": "tn",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Africa/tn.png"
+    },
+    {
+      "name": "us tn",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/North%20America/us_tn.png"
+    },
+    {
+      "name": "to",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Oceania/to.png"
+    },
+    {
+      "name": "tr",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Asia/tr.png"
+    },
+    {
+      "name": "tt",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/North%20America/tt.png"
+    },
+    {
+      "name": "tv",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Oceania/tv.png"
+    },
+    {
+      "name": "cn tw",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Asia/cn_tw.png"
+    },
+    {
+      "name": "us tx",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/North%20America/us_tx.png"
+    },
+    {
+      "name": "tz",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Africa/tz.png"
+    },
+    {
+      "name": "ua",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Europe/ua.png"
+    },
+    {
+      "name": "ug",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Africa/ug.png"
+    },
+    {
+      "name": "un",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/other/un.png"
+    },
+    {
+      "name": "us",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/North%20America/us.png"
+    },
+    {
+      "name": "us ut",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/North%20America/us_ut.png"
+    },
+    {
+      "name": "uy",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/South%20America/uy.png"
+    },
+    {
+      "name": "uz",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Asia/uz.png"
+    },
+    {
+      "name": "us va",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/North%20America/us_va.png"
+    },
+    {
+      "name": "va",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Europe/va.png"
+    },
+    {
+      "name": "vc",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/North%20America/vc.png"
+    },
+    {
+      "name": "ve",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/South%20America/ve.png"
+    },
+    {
+      "name": "vg",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/North%20America/vg.png"
+    },
+    {
+      "name": "vi",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/North%20America/vi.png"
+    },
+    {
+      "name": "vn",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Asia/vn.png"
+    },
+    {
+      "name": "us vt",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/North%20America/us_vt.png"
+    },
+    {
+      "name": "vu",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Oceania/vu.png"
+    },
+    {
+      "name": "us wa",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/North%20America/us_wa.png"
+    },
+    {
+      "name": "wd",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/world%20map/wd.png"
+    },
+    {
+      "name": "wf",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Oceania/wf.png"
+    },
+    {
+      "name": "us wi",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/North%20America/us_wi.png"
+    },
+    {
+      "name": "gb wls",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Europe/gb_wls.png"
+    },
+    {
+      "name": "ws",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Oceania/ws.png"
+    },
+    {
+      "name": "us wv",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/North%20America/us_wv.png"
+    },
+    {
+      "name": "us wy",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/North%20America/us_wy.png"
+    },
+    {
+      "name": "xk",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Europe/xk.png"
+    },
+    {
+      "name": "ye",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Asia/ye.png"
+    },
+    {
+      "name": "yt",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Africa/yt.png"
+    },
+    {
+      "name": "za",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Africa/za.png"
+    },
+    {
+      "name": "zm",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Africa/zm.png"
+    },
+    {
+      "name": "zw",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/flags/512px/Africa/zw.png"
+    }
+  ]
+}
