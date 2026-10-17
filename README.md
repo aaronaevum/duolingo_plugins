@@ -2,9 +2,9 @@
 
 ## 图标订阅地址
 
-[国旗图标144px 点击导入Loon](https://www.nsloon.com/openloon/import?iconset=https%3A%2F%2Fraw.githubusercontent.com%2Faaronaevum%2Floon%2Frefs%2Fheads%2Fmain%2Fflags%2F144px.json)<br><br>
-[国旗图标512px 点击导入Loon](https://www.nsloon.com/openloon/import?iconset=https%3A%2F%2Fraw.githubusercontent.com%2Faaronaevum%2Floon%2Frefs%2Fheads%2Fmain%2Fflags%2F512px.json)<br><br>
-[国旗图标1024px 点击导入Loon](https://www.nsloon.com/openloon/import?iconset=https%3A%2F%2Fraw.githubusercontent.com%2Faaronaevum%2Floon%2Frefs%2Fheads%2Fmain%2Fflags%2F1024px.json)
+[国旗 144PX 点击导入Loon](https://www.nsloon.com/openloon/import?iconset=https%3A%2F%2Fraw.githubusercontent.com%2Faaronaevum%2Floon%2Frefs%2Fheads%2Fmain%2Fflags%2F144px.json)<br><br>
+[国旗 512PX 点击导入Loon](https://www.nsloon.com/openloon/import?iconset=https%3A%2F%2Fraw.githubusercontent.com%2Faaronaevum%2Floon%2Frefs%2Fheads%2Fmain%2Fflags%2F512px.json)<br><br>
+[国旗 1024PX 点击导入Loon](https://www.nsloon.com/openloon/import?iconset=https%3A%2F%2Fraw.githubusercontent.com%2Faaronaevum%2Floon%2Frefs%2Fheads%2Fmain%2Fflags%2F1024px.json)
 ## 多邻国 v11
 
 适用于 iOS / iPadOS 版多邻国，版本日期：2026-10-12
